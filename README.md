@@ -1,7 +1,5 @@
 # Bike-Sales-Analysis
 
-# Bike-Sales-Analysis
-
 ## About project
 The goal of project is to identify Bike sales based on bike buyer's condition trends and suggest new sales strategies to improve the outcomes.
 
